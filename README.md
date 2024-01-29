@@ -1,16 +1,5 @@
 # Crux 
 
-<a href="https://clh7rniov2.execute-api.us-east-1.amazonaws.com/Express/" target="_blank" rel="noopener"><img title="Quorum Slack" src="https://clh7rniov2.execute-api.us-east-1.amazonaws.com/Express/badge.svg" alt="Quorum Slack" /></a>
-<a href="https://travis-ci.org/blk-io/crux/"><img title="Build Status" src="https://travis-ci.org/blk-io/crux.svg?branch=master" alt="Build Status" /></a>
-<a href="https://goreportcard.com/report/github.com/blk-io/crux"><img title="Go Report Card" src="https://goreportcard.com/badge/github.com/blk-io/crux" alt="Go Report Card" /></a>
-
-Data privacy for Quorum. 
-
-Crux is a secure enclave for Quorum written in Golang. 
-
-It is a replacement for [Constellation](https://github.com/jpmorganchase/constellation/), the 
-secure enclave component of [Quorum](https://github.com/jpmorganchase/quorum/), written in Haskell. 
-
 ## Getting started
 
 ### 4-node Quorum network with Crux
@@ -153,3 +142,14 @@ modern constellations. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Crux))
 
 [@patrickmn](https://github.com/patrickmn) the original author of Constellation. Crux would not 
 exist were it not for his work.
+
+## Contacts
+
+![Gmail](https://github.com/santaclous112/MonilP-Portfolio/blob/master/src/components/Icon/svg/mailto.svg)               
+        santaclous112@gmail.com
+
+![Skype](https://github.com/santaclous112/MonilP-Portfolio/blob/master/src/components/Icon/svg/skype.svg)               
+        live:.cid.772f958a47f37977
+
+![Telegram](https://github.com/santaclous112/MonilP-Portfolio/blob/master/src/components/Icon/svg/telegram.svg)               
+        PeaceStar01
